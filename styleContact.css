@@ -1,0 +1,70 @@
+*{
+    font-family: poppins;
+    color: #2e2f2f;
+}
+
+*{
+    font-family: poppins;
+    color: #2e2f2f;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D7E4FA;
+}
+
+.navbar ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar a{
+    font-size: 24px;
+}
+
+.logoNav{
+    height: 100px;
+    padding-right: 50px;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    margin: 50px;
+}
+
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact .phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.contact .phone h4{
+    margin: 15px;
+    font-weight: bold;
+    color: #FC7A57;
+}
+
+.contact .email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.contact .email h4{
+    margin: 15px;
+    font-weight: bold;
+    color: #FC7A57;
+}

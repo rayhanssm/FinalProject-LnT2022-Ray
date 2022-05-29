@@ -1,0 +1,49 @@
+*{
+    font-family: poppins;
+    color: #2e2f2f;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D7E4FA;
+}
+
+.navbar ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar a{
+    font-size: 24px;
+}
+
+.logoNav{
+    height: 100px;
+    padding-right: 50px;
+}
+
+.judul{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.judul h1{
+    font-size: 100px;
+    margin: 30px;
+    font-weight: bold;
+}
+
+.judul h3{
+    font-size: 80px;
+    margin-bottom: 30px;
+    color: #FC7A57;
+    font-weight: bold;
+}
+
+.judul p{
+    font-size: 24px;
+}
